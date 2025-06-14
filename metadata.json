@@ -1,0 +1,6 @@
+{
+  "name": "Field Audit Analyzer",
+  "description": "An application that takes journal-like reflections and returns a structured Relational Math (RM) analysis of field dynamics using the Gemini API.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}

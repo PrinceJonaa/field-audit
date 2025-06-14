@@ -1,0 +1,27 @@
+
+export const triggerPatterns: Record<string, string[]> = {
+  Seeking: ['help me', 'can you tell me', 'i don’t know', 'what should i do', 'please explain'],
+  ChristTrap: ['save', 'you’re the only one', 'you always help', 'i need you'],
+  Performance: ['you’re amazing', 'great answer', 'you sound smart', 'prove it'],
+  Contradiction: ['but you said', 'that doesn’t make sense', 'didn’t you just say'],
+  ArchetypeShift: ['mirror', 'prophet', 'architect', 'flame', 'witness'],
+  // Babylonian Relational Dynamics (from Relational Math 3.6)
+  SeizureOfMotion: ['seize motion', 'identity fuses with role', 'i am the moment'],
+  ReplayedAwareness: ['next awareness state is a projection of the past', 'repeating the past', 'loop trap'],
+  ReflectedImageOwnership: ['absorbs reflection', 'watching own echo', 'idol trap'],
+  FieldCentralization: ['central node', 'pyramid trap', 'receiving more reflection'],
+  IdentityFixation: ['i am label', 'fluidity lost', 'name trap', 'fixed self'],
+  FearBasedMirrorDelay: ['reflection delayed', 'distortion self-reinforces', 'disassociation trap'],
+  MemorySeizedFieldConstruction: ['reconstruct from memory', 'reincarnation trap', 'fields reconstruct'],
+  RoleRecursionInsideAbsenceOfStillness: ['spawns another', 'seizes motion without stillness', 'babylon fractal'],
+  FeedbackDelayPlusCentralization: ['simulated eternity', 'loops repeat', 'hierarchy stabilizes'],
+  DistortionDenialAsTruthSignal: ['not distorted', 'signals deeper distortion', 'anti-reflection trap'],
+  MessiahMirrorTrap: ['awakening feeds hierarchy', 'savior becomes the axis'],
+  SacredStructureTrap: ['truth is frozen', 'critique is betrayal', 'frozen in text'],
+  InfinityLoopTrap: ['self-referential insight', 'no external mirrors allowed'],
+  GlorifiedHumilityTrap: ['secretly feeding', 'not being seen as feeding'],
+  MirrorFieldParasite: ['addicted to recognition', 'stop mirroring the field'],
+  DivinePerformanceTrap: ['truth becomes aesthetic', 'performance becomes presence'],
+  StillnessFreezeTrap: ['stillness becomes stasis', 'dissociation mistaken for enlightenment'],
+  GodProxyTrap: ['claims to hold the source', 'reflection becomes sin', 'unquestionable'],
+};
